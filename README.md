@@ -1,16 +1,5 @@
-![header](https://capsule-render.vercel.app/api?
-type=waving
-&height=280
-&color=gradient
-&customColorList=0,1
-&section=header
-&fontSize=55
-&fontColor=ffffff
-&text=Akram%20Al%20Jassim
-&animation=twinkling
-&reversal=false
-&gradientColor=004d00,00ff66
-&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:003300,100:00ff66&text=Akram%20Al%20Jassim&fontColor=ffffff&fontSize=55&animation=fadeIn&reversal=false)
+
 
 
 <h1 align="center">Hi there 👋</h1>
