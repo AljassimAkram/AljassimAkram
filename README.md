@@ -13,8 +13,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?size=40&duration=3000&pause=1000&color=40FF8C&center=true&vCenter=true&width=230&lines=Hi+there"/>
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px" />
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100" />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280" />
+</p>
+
 
 
 ## 🛠️ Tech Stack
