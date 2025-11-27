@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&height=200&color=0:003300,50:00aa33,100:33ff66&text=Akram%20Al%20Jassim&fontColor=ffffff&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:00ff66,100:006633&text=Akram%20Al%20Jassim&fontColor=ffffff&fontSize=52&animation=fadeIn)
 
 
 <h1 align="center">Hi there 👋</h1>
