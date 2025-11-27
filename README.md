@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,100:00a63d&animation=twinkling" />
 </p>
 <p align="center" style="
-  font-size: 80px;
+  font-size: 1000px;
   font-weight: bold;
   color: #40ff8c;
   text-shadow: 0 0 10px #00ff88, 0 0 20px #00ff88;
