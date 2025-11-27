@@ -19,10 +19,10 @@
 
   <br>
 
-  <img 
-    src="https://raw.githubusercontent.com/alexandresanlim/Badges4-README.md-Profile/main/icons/gifs/wave.gif" 
-    width="80"
-  />
+ <p align="center">
+  <img src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" width="70">
+ </p>
+
 
 </p>
 
