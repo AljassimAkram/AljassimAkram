@@ -15,12 +15,11 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" />
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320" />
-</p>
 
 
 ## 🛠️ Tech Stack
