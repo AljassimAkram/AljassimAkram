@@ -15,8 +15,9 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px" />
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdqNHJpOTd0MHZxanZoYjJob3o3bGc5d2N3c3RmZHhrOW1oMG1hYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif" width="350" />
+  <img src="https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif" width="320" />
 </p>
+
 
 
 
