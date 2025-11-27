@@ -1,4 +1,24 @@
-![header](https://capsule-render.vercel.app/api?type=wave&height=180&color=0:002200,100:00cc33&text=Akram%20Al%20Jassim&fontColor=ffffff&fontSize=48&animation=fadeIn)
+<div align="center">
+
+<h1>Akram Al Jassim</h1>
+
+<style>
+.wave {
+animation: waveMove 6s linear infinite;
+}
+@keyframes waveMove {
+0% { transform: translateX(0); }
+100% { transform: translateX(-50%); }
+}
+</style>
+
+<svg class="wave" width="100%" height="200px" viewBox="0 0 1440 320">
+<path fill="#00d000" fill-opacity="1"
+d="M0,256L80,240C160,224,320,192,480,176C640,160,800,160,960,149.3C1120,139,1280,117,1360,106.7L1440,96L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z">
+</path>
+</svg>
+
+</div>
 
 
 
