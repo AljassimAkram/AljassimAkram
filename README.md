@@ -2,9 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,100:00a63d&animation=twinkling" />
 </p>
 
-<div align="center" style="font-size: 48px; color: #40ff8c; font-weight: bold; margin: -20px 0 -20px 0; padding: 0;">
+<p align="center" style="
+  margin: -25px 0 -10px 0;
+  padding: 0;
+  font-size: 50px;
+  font-weight: bold;
+  color: #40ff8c;
+  text-shadow: 0 0 10px #00ff88, 0 0 20px #00ff88;">
   Akram Al Jassim
-</div>
+</p>
 
 <p align="center" style="margin: 0; padding: 0;">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,100:00a63d&section=footer&animation=twinkling" />
