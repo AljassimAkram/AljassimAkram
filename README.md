@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=curved&height=250&color=0:003300,100:00ff66&text=Akram%20Al%20Jassim&fontColor=ffffff&fontSize=55&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=glitch&height=250&color=0:00ff66,100:003300&text=Akram%20Al%20Jassim&fontColor=ffffff&fontSize=55&animation=twinkling)
+
 
 
 
