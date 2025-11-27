@@ -1,7 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,100:00a63d&fontAlignY=35&animation=twinkling,blink)
-<p>Akram Al Jassim</p>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&height=140&color=0:000000,100:00a63d&section=footer&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,100:00a63d&fontColor=40ff8c&fontSize=52&fontAlign=50&fontAlignY=40&text=Akram%20Al%20Jassim&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,100:00a63d&section=footer&animation=twinkling)
 
 
 <h1 align="center">Hi there 👋</h1>
