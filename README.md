@@ -1,12 +1,14 @@
-<!-- HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,100:00a63d&animation=twinkling"/>
-  <h1 align="center" style="font-size: 48px; color: #40ff8c; font-weight: bold; margin-top: -50px;">
-    Akram Al Jassim
-  </h1>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,100:00a63d&section=footer&animation=twinkling"/>
+<p align="center" style="margin: 0; padding: 0;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,100:00a63d&animation=twinkling" />
 </p>
 
+<h1 align="center" style="font-size: 48px; color: #40ff8c; font-weight: bold; margin: -20px 0 -20px 0; padding: 0;">
+  Akram Al Jassim
+</h1>
+
+<p align="center" style="margin: 0; padding: 0;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,100:00a63d&section=footer&animation=twinkling" />
+</p>
 
 <h1 align="center">Hi there 👋</h1>
 
