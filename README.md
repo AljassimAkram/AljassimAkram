@@ -7,11 +7,7 @@
 
 <h1 align="center">Hi there 👋</h1>
 
-<p align="center">
-  <strong>Frontend Developer creating modern, fast and clean web interfaces with Angular & TypeScript.</strong>
-</p>
 
----
 
 ## 🛠️ Tech Stack
 
