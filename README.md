@@ -1,104 +1,89 @@
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1e3c72,100:2a5298&text=Hi%20there%20 %20I'm%20Akram&fontColor=ffffff&fontSize=36&fontAlignY=35&animation=twinkling" alt="header wave" />
+ <!-- Lade dein eigenes Banner hier hoch und ersetze die URL -->
+ <img src="https://your-banner-image-url.com/banner.png" alt="Akram Al Jassim - Frontend Developer" />
 </p>
 
-<!-- BADGES / KURZ-INFOS -->
+<h1 align="center">Hi there I'm Akram</h1>
+
 <p align="center">
- <a href="https://github.com/DEIN_USERNAME">
- <img src="https://img.shields.io/badge/Frontend_Developer-1e3c72?style=for-the-badge&logo=react&logoColor=white" alt="Frontend Developer Badge" />
- </a>
- <a href="mailto:deine.mail@example.com">
- <img src="https://img.shields.io/badge/Contact-Me-2a5298?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
- </a>
- <a href="https://www.linkedin.com/in/DEIN_LINKEDIN/">
- <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
- </a>
+ <strong>Frontend Developer in Training • JavaScript & Angular • Based in Germany</strong>
+</p>
+
+<p align="center">
+ <a href="https://github.com/AljassimAkram">GitHub</a>
 </p>
 
 ---
 
-## About Me
+### About me
 
-Hi, I'm **Akram**, a passionate **Frontend Developer** who loves crafting clean, responsive and visually appealing user interfaces. 
-I enjoy combining **beautiful design** with **solid code**, turning ideas into interactive web experiences.
-
-- Currently working on: modern **Angular / React** projects and UI prototyping 
-- Learning more about: **advanced animations**, **testing**, and **design systems** 
-- Goal: Build interfaces that feel **smooth, intuitive and delightful** 
-- Ask me about: HTML, CSS, TypeScript, Angular, responsive layouts, accessibility 
+- Background in **Social Work**, now transitioning into **Software Development**
+- Currently learning **Frontend Development (JavaScript, TypeScript, Angular, HTML, CSS)**
+- Building browsers games & interactive UI projects
+- Passionate about clean, modern web design & responsive layouts
+- Always learning new technologies & improving problem-solving skills
 
 ---
 
-## Tech Stack
+### Tech Stack
 
-<p align="center">
- <!-- Row 1 -->
- <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts" />
- <br />
- <!-- Row 2 -->
- <img src="https://skillicons.dev/icons?i=angular,react,git,github,vscode,figma" />
+#### Languages
+
+<p>
+ <img src="https://skillicons.dev/icons?i=js,ts,html,css" height="45" />
+</p>
+
+#### Frameworks & Tools
+
+<p>
+ <img src="https://skillicons.dev/icons?i=angular,bootstrap,git,github,vscode,figma" height="45" />
 </p>
 
 ---
 
-## UI & Frontend Focus
+### Featured Projects
 
-I love:
+- **El Pollo Loco – Jump & Run Canvas Game** 
+ A side-scrolling browser game built with **HTML, CSS, JS**. 
+ Repo: https://github.com/AljassimAkram/El-Pollo-Loco
 
-- **Pixel-perfect layouts** with flexible grids & flexbox 
-- **Fully responsive** designs from mobile to ultra-wide screens 
-- **Smooth transitions & micro-animations** that guide the user 
-- Working closely with **Figma / design prototypes** 
-- **Accessibility** and UI that works for everyone 
+- **Portfolio Website (Angular)** 
+ Modern personal portfolio built with **Angular**. 
+ Repo: https://github.com/AljassimAkram (choose your portfolio repo)
 
----
-
-## Highlight Projects
-
-> *Replace the images & links below with your own project screenshots.*
-
-### 1. Portfolio Website
-
-<p align="center">
- <a href="https://DEIN_PORTFOLIO_LINK">
- <img src="https://via.placeholder.com/900x400.png?text=Portfolio+Screenshot" alt="Portfolio Screenshot" />
- </a>
-</p>
-
-- Built with **Angular / React** and modern **CSS animations**
-- Hover effects on profile picture, logos and navigation 
-- Clean layout with **soft shadows**, gradients and subtle motion 
+- **Frontend Components Playground** 
+ Collection of mini-apps to learn JS & Angular. 
+ https://github.com/AljassimAkram?tab=repositories
 
 ---
 
-### 2. Frontend UI Components Library
+### GitHub Stats
 
 <p align="center">
- <a href="https://github.com/DEIN_USERNAME/DEIN_COMPONENT_REPO">
- <img src="https://via.placeholder.com/900x400.png?text=UI+Components+Library" alt="UI Library Screenshot" />
- </a>
-</p>
-
-- Collection of reusable **buttons, cards, modals, forms** 
-- Focus on **accessibility**, **responsive design** and clear API 
-- Documented with stories / examples 
-
----
-
-## GitHub Stats
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=DEIN_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+ <img 
+ src="https://github-readme-stats.vercel.app/api?username=AljassimAkram&show_icons=true&theme=radical" 
+ height="170"
+ />
+ <img 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=AljassimAkram&layout=compact&theme=radical" 
+ height="170"
+ />
 </p>
 
 ---
 
-## Aesthetic Wave Section
+### Currently Learning
 
-<p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2a5298,100:1e3c72" alt="footer wave" />
-</p>
+- Advanced **Angular**
+- TypeScript Best Practices
+- Clean architecture & reusable components
+- Building real-world frontend projects
+
+---
+
+### Connect with me
+
+If you want to collaborate or just say hi:
+
+- GitHub: https://github.com/AljassimAkram 
+- (Optional) Add Email or LinkedIn if you want
