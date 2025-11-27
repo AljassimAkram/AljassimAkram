@@ -10,11 +10,22 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,100:00a63d&section=footer&animation=twinkling" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=40&duration=3000&pause=1000&color=40FF8C&center=true&vCenter=true&width=600&lines=Hi+there" />
-  <img src="https://raw.githubusercontent.com/alexandresanlim/Badges4-README.md-Profile/main/icons/gifs/wave.gif" width="80"/>
+<p align="center">
 
-</h1>
+  <img 
+    src="https://readme-typing-svg.demolab.com?size=40&duration=3000&pause=1000&color=40FF8C&center=true&vCenter=true&width=600&lines=Hi+there" 
+    alt="typing animation"
+  />
+
+  <br>
+
+  <img 
+    src="https://raw.githubusercontent.com/alexandresanlim/Badges4-README.md-Profile/main/icons/gifs/wave.gif" 
+    width="80"
+  />
+
+</p>
+
 
 
 
