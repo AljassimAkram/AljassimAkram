@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:121212,100:2c2c2c&text=👨‍💻%20Akram%20Al%20Jassim%20|%20Frontend%20Developer&fontColor=00ffff&fontSize=55&animation=fadeIn&reversal=false)
+![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:121212,100:2c2c2c&text=👨‍💻%20Akram%20Al%20Jassim%20&fontColor=00ffff&fontSize=55&animation=fadeIn&reversal=false)
 
 <h1 align="center">Hi there 👋</h1>
 
@@ -37,15 +37,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="380" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="380" />
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akram&show_icons=true&theme=tokyonight" height="160"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akram&layout=compact&theme=tokyonight" height="160"/> 
 </p>
-
 ---
-
 ## 📫 Contact Me
 
 <p align="center">
