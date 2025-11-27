@@ -1,11 +1,11 @@
 <p align="center" style="margin: 0; padding: 0;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,100:00a63d&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,100:00a63d&animation=twinkling" />
 </p>
 <p align="center">
   <h1 align="center">Akram Al Jassim</h1>
 </p>
 <p align="center" style="margin: 0; padding: 0;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,100:00a63d&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,100:00a63d&section=footer&animation=twinkling" />
 </p>
 
 <h1 align="center">Hi there 👋</h1>
