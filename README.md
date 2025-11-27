@@ -11,7 +11,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=40&duration=3000&pause=1000&color=40FF8C&center=true&vCenter=true&width=600&lines=Hi+there+�" />
+  <img src="https://readme-typing-svg.demolab.com?size=40&duration=3000&pause=1000&color=40FF8C&center=true&vCenter=true&width=600&lines=Hi+there" />
 </h1>
 
 
